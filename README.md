@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="Meta/AppIcon_readme.png" width="200" height="200">
+	<img src="Meta/AppIcon_readme.webp" width="200" height="200">
 	<h1>WalkingMate</h1>
 	<p>
 		<b>Your WalkingPad Companion for macOS</b>
