@@ -36,18 +36,6 @@ Download WalkingMate from the [App Store](#) or visit our
 If you encounter a bug or have a feature request, please
 [open an issue](../../issues/new).
 
-Before creating a new issue, please:
-
-1. Search existing issues to avoid duplicates
-2. Include your macOS version and WalkingMate version
-3. For bugs, provide steps to reproduce the issue
-4. For features, explain the use case and benefit
-
 ## Support
 
-For general questions and support, please email: support@zendit.fi
-
----
-
-**Note:** This repository does not contain the source code for WalkingMate. It
-exists solely for community feedback and issue tracking.
+For general questions and support, please email: walkingmate@zendit.fi
