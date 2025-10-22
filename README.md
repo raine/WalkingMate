@@ -1,7 +1,6 @@
 <div align="center">
 	<img src="Meta/AppIcon_readme.webp" width="200" height="200">
-	<h1>WalkingMate</h1>
-	<p>
+	<h1>WalkingMate</h1> <p>
 		<b>Your WalkingPad Companion for macOS</b>
 	</p>
 	<br>
@@ -28,7 +27,8 @@ WalkingMate is your companion app for seamless WalkingPad control:
 
 ## Get WalkingMate
 
-Download WalkingMate from the [App Store](#) or visit our
+Download WalkingMate from the
+[App Store](https://apps.apple.com/us/app/walkingmate/id6754256683) or visit our
 [website](https://walkingmate.zendit.fi) for more information.
 
 ## Report Issues or Request Features
